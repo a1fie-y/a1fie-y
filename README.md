@@ -17,4 +17,6 @@
 
 - <img height="20" src=https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png> JavaScript
 
+### My Discord
   
+[![Discord Presence](https://lanyard.cnrad.dev/api/1066514347574186034?hideTimestamp=true&hideSpotify=true&hideActivity=true&hideTag=true)](https://discord.com/users/1066514347574186034)
