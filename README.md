@@ -8,10 +8,10 @@
 - <img height="20" src=https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png> Lua/Luau
 
 
-### Currently
+### Currently Working On
 
-- Working on personal roblox projects
-- Working on commissions
+- Personal roblox projects
+- Commissions
 
 ### Currently Learning
 
