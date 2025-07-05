@@ -1,8 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👨‍💻 Full Stack Roblox Programmer</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
+<h1 align="center">👨‍💻 Full Stack Roblox Developer</h1>
 <p align="center">
   Passionate about building Roblox games, scripting backend logic, and learning modern tech stacks.
 </p>
@@ -35,7 +32,7 @@ Here are some things I’m working on:
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🧩 Commissioned Game Systems | Scripting for clients | 🟡 Ongoing |
+| 🧩 Commissioned Game Systems | Scripting for clients | 🟢 Available |
 | 🌱 JavaScript Learning Projects | Personal experiments | 🟠 Learning |
 
 ---
@@ -46,8 +43,4 @@ Here are some things I’m working on:
   <a href="https://discord.com/users/1066514347574186034">
     <img src="https://lanyard.cnrad.dev/api/1066514347574186034?hideTimestamp=true&hideSpotify=true&hideActivity=true&hideTag=true" />
   </a>
-</p>
-
-<p align="left">
-  📫 **Discord:** @hellraiser9918
 </p>
