@@ -35,7 +35,6 @@ Here are some things I’m working on:
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| 🎮 Roblox Simulator | Backend + GUI systems | 🟢 Active |
 | 🧩 Commissioned Game Systems | Scripting for clients | 🟡 Ongoing |
 | 🌱 JavaScript Learning Projects | Personal experiments | 🟠 Learning |
 
