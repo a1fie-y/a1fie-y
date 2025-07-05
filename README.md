@@ -20,11 +20,11 @@
 ## 🧠 Languages I Use
 
 <p align="left">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png">&nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">&nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">&nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">&nbsp;
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+  <img style="height:18px;" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png">&nbsp;
+  <img style="height:18px;" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">&nbsp;
+  <img style="height:18px;" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png">&nbsp;
+  <img style="height:18px;" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png">&nbsp;
+  <img style="height:18px;" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
 </p>
 
 ---
